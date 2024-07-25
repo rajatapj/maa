@@ -6,6 +6,8 @@
 
 • User Story: Booking tickets
 
+• User Story: Transaction
+
 • User Story: logout
 
 
